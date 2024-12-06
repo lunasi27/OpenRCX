@@ -36,6 +36,8 @@ build
 lbuild
 .DS_Store
 .vscode
+.idea
+cmake-build-debug-remote-host
 
 autom4te.cache
 .deps
